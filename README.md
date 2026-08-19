@@ -205,7 +205,7 @@ Lightweight CLI utility to merge multiple PDF files into a single document using
 
 ## <img src="https://media.giphy.com/media/UWtHqjLQ7id7ClOZ96/giphy.gif" width="28"> &nbsp;Experience
 
-**🏢 Hughes Systique Pvt. Ltd.** — *AI/ML Intern* &nbsp;·&nbsp; `May 2025 – Present`
+**🏢 Hughes Systique Pvt. Ltd.** — *AI/ML Intern* &nbsp;·&nbsp; `May 2025 – Jul 2026`
 > End-to-end ML model development, data preprocessing, feature engineering, and evaluation in a production environment. Collaborating cross-functionally to integrate AI-driven solutions into real systems, with hands-on exposure to MLOps workflows.
 
 **🎓 Internshala** — *Student Partner* &nbsp;·&nbsp; `Apr 2026`
