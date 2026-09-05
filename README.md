@@ -96,23 +96,35 @@ class VishalVerma:
 
 <br/>
 
-<!-- ==================== FLAGSHIP ==================== -->
+<!-- ==================== PROJECTS ==================== -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Flagship Work
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Projects
 
-### 🍎 FreshVision AI — Fruit & Vegetable Quality Assessment
+### 🔥 [Thermal-Sight](https://github.com/2ViShAlv1/Thermal-Sight) — Fire or Factory? Satellite Thermal Anomaly Classification
 
-A two-stage deep learning pipeline for automated produce grading.
+Smart India Hackathon 2026 (SIH 26162). Separates industrial heat from forest fires and crop-residue burning in a year of NASA FIRMS VIIRS thermal detections — using DBSCAN clustering, temporal-persistence features, a rule engine, XGBoost, and a vision-language model as fallback for whatever the rules can't resolve.
 
 | | |
 |---|---|
-| **Stage 1** | MobileNetV2 identifier — **97.8%** validation accuracy across 14 classes |
-| **Stage 2** | 5-level freshness grader — **83.7%** validation accuracy |
-| **Data** | ~30,000 images, HSV-based pseudo-labeling to generate freshness labels |
-| **Serving** | Flask backend + Streamlit frontend for real-time inference |
-| **Stack** | `Python` `TensorFlow` `Keras` `MobileNetV2` `OpenCV` `Flask` `Streamlit` |
+| **Volume reduction** | **88,434** raw detections → **238** industrial sites to inspect (**99.73%** reduction) |
+| **Region hold-out** | **0.914** macro-F1 — trained on 4 regions, tested on an unseen 5th |
+| **Gold-set accuracy** | **86.8%** against 159 hand-labelled sources |
+| **Interfaces** | React + FastAPI + Leaflet dashboard, and a Streamlit dashboard, both reading the same committed outputs |
+| **Stack** | `Python` `FastAPI` `React` `XGBoost` `DBSCAN` `Gemini VLM` |
 
-> Academic thesis project · Co-authored with Harshul Saini · Supervised by Dr. Aurobindo Behera
+---
+
+### 🛡️ [StartupShield AI](https://github.com/2ViShAlv1/StartUpShield) — Explainable Startup Risk Scoring
+
+A risk-monitoring dashboard that turns customer, review, and revenue data into a single 0–100 company risk score — with a plain-language reason and a prioritized recommendation, not just a number. Combines churn prediction, sentiment analysis, anomaly detection, and forecasting behind a transparent, weighted (not black-box) risk formula.
+
+| | |
+|---|---|
+| **Churn (LightGBM)** | **0.85** ROC-AUC, with SHAP-based per-customer explanations |
+| **Anomaly detection** | **5/5** injected anomalies recovered (IsolationForest) |
+| **Forecast** | Beats a naive baseline on **3/3** demo companies (Prophet) |
+| **Live demo** | [startupshield.streamlit.app](https://startupshield.streamlit.app/) |
+| **Stack** | `Python` `LightGBM` `Streamlit` `FastAPI` `React` `Prophet` `SHAP` |
 
 ---
 
@@ -121,14 +133,6 @@ A two-stage deep learning pipeline for automated produce grading.
 End-to-end ML pipeline classifying Near-Earth Objects as hazardous or safe from NASA physical and orbital attributes. Handled a severe **84/16 class imbalance** with SMOTE applied strictly *after* the train/test split to prevent leakage — a detail most tutorials get wrong.
 
 `Python` `Scikit-learn` `SMOTE` `Pandas` `NumPy`
-
----
-
-### 🚀 Global Space Exploration Data Analysis
-
-Comprehensive EDA over **70+ years** of global space missions — launch trends, success rates, and country-wise contributions. Engineered features to surface correlations between mission type, launch vehicle, and outcome.
-
-`Python` `Pandas` `Matplotlib` `Scikit-learn`
 
 <br/>
 
