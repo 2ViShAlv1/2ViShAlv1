@@ -128,11 +128,19 @@ A risk-monitoring dashboard that turns customer, review, and revenue data into a
 
 ---
 
-### ☄️ Asteroid Hazard Prediction — NEO Classification
+### 🍎 FreshVision AI — Fruit & Vegetable Quality Assessment
 
-End-to-end ML pipeline classifying Near-Earth Objects as hazardous or safe from NASA physical and orbital attributes. Handled a severe **84/16 class imbalance** with SMOTE applied strictly *after* the train/test split to prevent leakage — a detail most tutorials get wrong.
+A two-stage deep learning pipeline for automated produce grading.
 
-`Python` `Scikit-learn` `SMOTE` `Pandas` `NumPy`
+| | |
+|---|---|
+| **Stage 1** | MobileNetV2 identifier — **97.8%** validation accuracy across 14 classes |
+| **Stage 2** | 5-level freshness grader — **83.7%** validation accuracy |
+| **Data** | ~30,000 images, HSV-based pseudo-labeling to generate freshness labels |
+| **Serving** | Flask backend + Streamlit frontend for real-time inference |
+| **Stack** | `Python` `TensorFlow` `Keras` `MobileNetV2` `OpenCV` `Flask` `Streamlit` |
+
+> Academic thesis project · Co-authored with Harshul Saini · Supervised by Dr. Aurobindo Behera
 
 <br/>
 
