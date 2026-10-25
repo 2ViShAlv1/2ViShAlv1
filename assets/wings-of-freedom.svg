@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 250" width="220" height="250" role="img" aria-label="Wings of Freedom">
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a3420"/><stop offset="1" stop-color="#1a110b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6e7c1"/><stop offset="0.5" stop-color="#d4b06a"/><stop offset="1" stop-color="#8d6a2e"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><path d="M110 12 L196 35 L196 120 C196 182 158 216 110 238 C62 216 24 182 24 120 L24 35 Z"/></clipPath>
+    <style>
+      .glint { animation: glint 4.5s ease-in-out infinite; }
+      @keyframes glint { 0% { transform: translateX(-260px); } 60%, 100% { transform: translateX(260px); } }
+    </style>
+  </defs>
+  <path d="M110 6 L202 31 L202 120 C202 188 162 222 110 246 C58 222 18 188 18 120 L18 31 Z" fill="url(#gold)"/>
+  <path d="M110 12 L196 35 L196 120 C196 182 158 216 110 238 C62 216 24 182 24 120 L24 35 Z" fill="url(#shield)"/>
+  <g clip-path="url(#clip)">
+    <g fill="#1d3a6e" stroke="#0b1a33" stroke-width="1.6" stroke-linejoin="round">
+      <path d="M94.0 88.0 L142.5 61.7 L143.9 98.8 L141.0 135.1 L134.4 168.0 L125.0 196.3 L94.0 191.0Z"/><path d="M94.0 185.0 Q126.3 184.0 150.4 205.5 Q113.3 219.7 94.0 185.0Z"/><path d="M94.0 163.0 Q132.2 155.6 167.4 172.0 Q127.6 193.3 94.0 163.0Z"/><path d="M94.0 140.0 Q135.5 123.6 179.5 131.0 Q139.5 161.4 94.0 140.0Z"/><path d="M94.0 116.0 Q135.5 89.0 184.8 84.7 Q147.8 125.0 94.0 116.0Z"/><path d="M94.0 92.0 Q131.7 54.3 182.2 36.9 Q151.9 86.5 94.0 92.0Z"/>
+    </g>
+    <g fill="#f5f1e8" stroke="#2a2420" stroke-width="1.6" stroke-linejoin="round">
+      <path d="M126.0 88.0 L77.5 61.7 L76.1 98.8 L79.0 135.1 L85.6 168.0 L95.0 196.3 L126.0 191.0Z"/><path d="M126.0 185.0 Q106.7 219.7 69.6 205.5 Q93.7 184.0 126.0 185.0Z"/><path d="M126.0 163.0 Q92.4 193.3 52.6 172.0 Q87.8 155.6 126.0 163.0Z"/><path d="M126.0 140.0 Q80.5 161.4 40.5 131.0 Q84.5 123.6 126.0 140.0Z"/><path d="M126.0 116.0 Q72.2 125.0 35.2 84.7 Q84.5 89.0 126.0 116.0Z"/><path d="M126.0 92.0 Q68.1 86.5 37.8 36.9 Q88.3 54.3 126.0 92.0Z"/>
+    </g>
+    <rect class="glint" x="0" y="0" width="90" height="250" fill="url(#shine)" transform="skewX(-20)"/>
+  </g>
+  <path d="M110 22 L186 42 L186 120 C186 176 152 206 110 226 C68 206 34 176 34 120 L34 42 Z" fill="none" stroke="#d4b06a" stroke-width="1" opacity="0.45"/>
+</svg>

@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Vishal Verma — Scout Regiment, AI/ML Division">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070404"/>
+      <stop offset="0.45" stop-color="#2a0906"/>
+      <stop offset="0.8" stop-color="#7a1e0c"/>
+      <stop offset="1" stop-color="#c2481a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="930" cy="250" r="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff7a2a" stop-opacity="0.75"/>
+      <stop offset="0.35" stop-color="#d9431a" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#d9431a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="flesh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a2414"/>
+      <stop offset="0.6" stop-color="#561009"/>
+      <stop offset="1" stop-color="#2c0604"/>
+    </linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a2f29"/>
+      <stop offset="0.25" stop-color="#241d19"/>
+      <stop offset="1" stop-color="#0c0908"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6e7c1"/>
+      <stop offset="0.5" stop-color="#d4b06a"/>
+      <stop offset="1" stop-color="#8d6a2e"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4b06a"/>
+      <stop offset="1" stop-color="#d4b06a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="600" cy="200" r="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0.55" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.75"/>
+    </radialGradient>
+    <pattern id="bricks" width="90" height="36" patternUnits="userSpaceOnUse">
+      <rect width="90" height="36" fill="none"/>
+      <path d="M0 0.5H90M0 18.5H90M45 0V18M0 18V36M90 18V36" stroke="#0a0706" stroke-width="2" fill="none" opacity="0.8"/>
+      <path d="M2 2H43M47 20H88" stroke="#4a3d35" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="eyeglow" x="-200%" y="-300%" width="500%" height="700%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textglow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feFlood flood-color="#ff6a1f" flood-opacity="0.35"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .steam { transform-box: fill-box; transform-origin: center; animation: rise 7s ease-out infinite; opacity: 0; }
+      .s2 { animation-delay: 1.4s; } .s3 { animation-delay: 2.8s; } .s4 { animation-delay: 4.2s; } .s5 { animation-delay: 5.6s; }
+      @keyframes rise {
+        0%   { transform: translateY(0) scale(0.8); opacity: 0; }
+        20%  { opacity: 0.55; }
+        100% { transform: translateY(-170px) scale(1.9); opacity: 0; }
+      }
+      .ember { animation: ember 6s linear infinite; opacity: 0; }
+      @keyframes ember {
+        0%   { transform: translate(0, 0); opacity: 0; }
+        10%  { opacity: 1; }
+        100% { transform: translate(-60px, -260px); opacity: 0; }
+      }
+      .eyes { animation: pulse 3.2s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.65; } 50% { opacity: 1; } }
+      .fade1 { animation: fadein 1.2s ease-out both; }
+      .fade2 { animation: fadein 1.2s ease-out 0.4s both; }
+      .fade3 { animation: fadein 1.2s ease-out 0.8s both; }
+      .fade4 { animation: fadein 1.2s ease-out 1.2s both; }
+      @keyframes fadein { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      .titan { animation: emerge 2.4s cubic-bezier(.2,.7,.2,1) both; }
+      @keyframes emerge { from { transform: translateY(90px); } to { transform: translateY(0); } }
+      .serif { font-family: 'Cinzel', 'Trajan Pro', Georgia, 'Times New Roman', serif; }
+    </style>
+  </defs>
+
+  <!-- sky + dusk glow -->
+  <rect width="1200" height="400" fill="url(#sky)"/>
+  <rect width="1200" height="400" fill="url(#glow)"/>
+  <ellipse cx="300" cy="120" rx="420" ry="40" fill="#000" opacity="0.35" filter="url(#blur)"/>
+  <ellipse cx="760" cy="60" rx="380" ry="30" fill="#000" opacity="0.3" filter="url(#blur)"/>
+
+  <!-- scout on ODM gear crossing the sky -->
+  <g opacity="0.9">
+    <g>
+      <path d="M0 0 L-16 10 L-11 -2 Z" fill="#1f3a24"/>
+      <circle cx="2" cy="-3" r="3" fill="#120c0a"/>
+      <path d="M0 0 L8 5" stroke="#120c0a" stroke-width="2"/>
+      <path d="M-14 6 L-60 18" stroke="#e8dcc4" stroke-width="1.5" opacity="0.25"/>
+      <animateMotion dur="11s" repeatCount="indefinite" rotate="auto" path="M-60 70 Q 420 -10 780 150"/>
+    </g>
+  </g>
+
+  <!-- Colossal Titan rising behind the wall -->
+  <g class="titan">
+    <!-- steam -->
+    <g fill="#f3e6d8" filter="url(#blur)">
+      <circle class="steam"    cx="880"  cy="140" r="38"/>
+      <circle class="steam s2" cx="985"  cy="130" r="42"/>
+      <circle class="steam s3" cx="930"  cy="110" r="46"/>
+      <circle class="steam s4" cx="840"  cy="200" r="34"/>
+      <circle class="steam s5" cx="1030" cy="190" r="36"/>
+    </g>
+    <!-- head -->
+    <path d="M808 262 C 806 160, 858 98, 930 96 C 1002 98, 1054 160, 1052 262 Z" fill="url(#flesh)"/>
+    <!-- exposed muscle striations -->
+    <g fill="none" stroke="#b33421" stroke-linecap="round" opacity="0.55">
+      <path d="M930 100 C 905 140, 888 200, 880 262" stroke-width="3"/>
+      <path d="M930 100 C 955 140, 972 200, 980 262" stroke-width="3"/>
+      <path d="M908 103 C 866 140, 844 200, 838 262" stroke-width="2.5"/>
+      <path d="M952 103 C 994 140, 1016 200, 1022 262" stroke-width="2.5"/>
+      <path d="M888 112 C 846 150, 826 205, 822 262" stroke-width="2"/>
+      <path d="M972 112 C 1014 150, 1034 205, 1038 262" stroke-width="2"/>
+      <path d="M930 98 V 262" stroke="#3a0805" stroke-width="5" opacity="0.8"/>
+    </g>
+    <!-- brow + eye sockets -->
+    <ellipse cx="892" cy="220" rx="30" ry="15" fill="#160302"/>
+    <ellipse cx="968" cy="220" rx="30" ry="15" fill="#160302"/>
+    <path d="M855 206 Q 893 186 928 208" stroke="#1a0302" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M932 208 Q 967 186 1005 206" stroke="#1a0302" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <g class="eyes" filter="url(#eyeglow)">
+      <ellipse cx="894" cy="222" rx="15" ry="4.5" fill="#ffd27a"/>
+      <ellipse cx="966" cy="222" rx="15" ry="4.5" fill="#ffd27a"/>
+    </g>
+  </g>
+
+  <!-- the wall -->
+  <rect x="0" y="252" width="1200" height="148" fill="url(#stone)"/>
+  <rect x="0" y="252" width="1200" height="148" fill="url(#bricks)"/>
+  <rect x="0" y="242" width="1200" height="14" fill="#3d322b"/>
+  <path d="M0 242.5 H1200" stroke="#ff8a3d" stroke-width="2" opacity="0.55"/>
+  <g fill="#0a0706" opacity="0.9">
+    <rect x="0"   y="236" width="1200" height="6" opacity="0.4"/>
+  </g>
+
+  <!-- titan fingers gripping the wall -->
+  <g class="titan" fill="url(#flesh)" stroke="#2a0503" stroke-width="2">
+    <rect x="770" y="226" width="15" height="48" rx="7.5"/>
+    <rect x="788" y="220" width="16" height="56" rx="8"/>
+    <rect x="807" y="222" width="16" height="54" rx="8"/>
+    <rect x="826" y="230" width="14" height="42" rx="7"/>
+    <rect x="1020" y="230" width="14" height="42" rx="7"/>
+    <rect x="1037" y="222" width="16" height="54" rx="8"/>
+    <rect x="1056" y="220" width="16" height="56" rx="8"/>
+    <rect x="1075" y="226" width="15" height="48" rx="7.5"/>
+  </g>
+
+  <!-- engraving on the wall -->
+  <text x="600" y="345" text-anchor="middle" class="serif" font-size="15" letter-spacing="14" fill="#5a4a3f" opacity="0.8">WALL MARIA · WALL ROSE · WALL SINA</text>
+  <text x="600" y="375" text-anchor="middle" class="serif" font-size="11" letter-spacing="8" fill="#4a3d35" opacity="0.7">MACHINE LEARNING · COMPUTER VISION · MLOPS</text>
+
+  <!-- embers -->
+  <g fill="#ffae4d">
+    <circle class="ember" cx="700"  cy="300" r="2"   style="animation-delay:0s"/>
+    <circle class="ember" cx="820"  cy="320" r="1.5" style="animation-delay:0.8s"/>
+    <circle class="ember" cx="940"  cy="290" r="2.5" style="animation-delay:1.6s"/>
+    <circle class="ember" cx="1060" cy="310" r="1.8" style="animation-delay:2.4s"/>
+    <circle class="ember" cx="1150" cy="300" r="2"   style="animation-delay:3.2s"/>
+    <circle class="ember" cx="600"  cy="320" r="1.4" style="animation-delay:4s"/>
+    <circle class="ember" cx="880"  cy="330" r="2"   style="animation-delay:4.8s"/>
+    <circle class="ember" cx="1000" cy="300" r="1.6" style="animation-delay:5.4s"/>
+    <circle class="ember" cx="480"  cy="310" r="1.6" style="animation-delay:2s"/>
+    <circle class="ember" cx="760"  cy="300" r="1.2" style="animation-delay:3.6s"/>
+  </g>
+
+  <!-- text -->
+  <g class="serif">
+    <text class="fade1" x="72" y="82" font-size="15" letter-spacing="6" fill="#c0392b" font-weight="700">◆ SCOUT REGIMENT · PERSONNEL FILE ◆</text>
+    <text class="fade2" x="68" y="156" font-size="68" letter-spacing="5" font-weight="700" fill="url(#gold)" filter="url(#textglow)">VISHAL VERMA</text>
+    <rect class="fade3" x="72" y="174" width="520" height="2" fill="url(#rule)"/>
+    <text class="fade3" x="72" y="206" font-size="17" letter-spacing="3" fill="#e8dcc4">AI / ML ENGINEER · DEEP LEARNING · COMPUTER VISION</text>
+    <text class="fade4" x="72" y="233" font-size="15" letter-spacing="4" fill="#d4b06a">心臓を捧げよ <tspan fill="#c0392b">—</tspan> SHINZOU WO SASAGEYO</text>
+  </g>
+
+  <rect width="1200" height="400" fill="url(#vignette)"/>
+</svg>
