@@ -1,8 +1,8 @@
-<!-- The Grimoire of Vishal Verma. All artwork in /assets is original SVG fan art. -->
+<!-- The Grimoire of Vishal Verma. All artwork in /assets is original SVG. -->
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="The Grimoire of Vishal Verma: Asta and Yuno. My magic is code. I never give up." />
+<img src="assets/hero.svg" width="100%" alt="The Grimoire of Vishal Verma. My magic is code. I never give up." />
 
 <img src="assets/wind-pages.svg" width="100%" alt="" />
 
@@ -22,15 +22,6 @@
 
 <h3 align="center"><img src="assets/ep-owner.svg" width="100%" alt="Grimoire Owner: about me" /></h3>
 
-<table>
-<tr>
-<td width="32%" align="center" valign="middle">
-
-<img src="assets/portrait-asta.svg" width="250" alt="Asta: never give up" />
-
-</td>
-<td width="68%" valign="middle">
-
 **Vishal Verma**, AI/ML engineer from Gurugram, India
 
 - **Academy:** B.Tech CSE (AI/ML), BML Munjal University, class of 2028
@@ -39,10 +30,6 @@
 - **Casting now:** multi-agent RAG systems and end-to-end ML pipelines
 - **Studying:** agentic AI, MLOps, and data structures & algorithms in Java
 - **Exploring:** satellite imagery and remote sensing with deep learning
-
-</td>
-</tr>
-</table>
 
 <img src="assets/divider-slash.svg" width="100%" alt="" />
 
@@ -121,7 +108,7 @@
 </tr>
 </table>
 
-<img src="assets/rivals-cutin.svg" width="100%" alt="Rivals cut-in: surpass your limits" />
+<img src="assets/divider-slash.svg" width="100%" alt="" />
 
 <h3 align="center"><img src="assets/ep-forbidden.svg" width="100%" alt="Forbidden Pages: flagship projects" /></h3>
 
@@ -286,9 +273,7 @@ Multi-agent RAG copilot for space research.
 
 <h3 align="center"><img src="assets/ep-summon.svg" width="100%" alt="Summon Me: contact" /></h3>
 
-<table>
-<tr>
-<td width="62%" align="center" valign="middle">
+<div align="center">
 
 **Got a quest or a wild idea? Call me in.**
 
@@ -302,18 +287,7 @@ Multi-agent RAG copilot for space research.
 <a href="mailto:vishalverma210905@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Send%20a%20summons-14707f?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=ffffff" /></a>
 </p>
 
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="assets/portrait-yuno.svg" width="250" alt="Yuno: summon me" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>Unofficial fan art, drawn as original SVGs. Asta, Yuno and Black Clover belong to Yūki Tabata and Shueisha.</sub>
+<sub>Theme inspired by Black Clover. Unofficial; all artwork is original SVG.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:0a0a0a,100:14707f&height=110&section=footer" width="100%" alt="" />
 
