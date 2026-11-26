@@ -4,21 +4,21 @@
 
 <img src="assets/hero.svg" width="100%" alt="The Grimoire of Vishal Verma. My magic is code. I never give up." />
 
-<img src="assets/wind-pages.svg" width="100%" alt="" />
+<img src="assets/ash-strip.svg" width="100%" alt="" />
 
 <a href="https://github.com/2ViShAlv1">
-  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=32&duration=3000&pause=900&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&width=760&height=56&lines=AI%2FML+Engineer;Building+multi-agent+RAG+systems;Future+ISRO+engineer;Surpassing+my+limits%2C+one+commit+at+a+time" alt="AI/ML Engineer. Building multi-agent RAG systems. Future ISRO engineer. Surpassing my limits, one commit at a time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=900&color=C1121F&background=050505&center=true&vCenter=true&width=760&height=56&lines=AI%2FML+Engineer;Building+multi-agent+RAG+systems;Future+ISRO+engineer;Surpassing+my+limits%2C+one+commit+at+a+time" alt="AI/ML Engineer. Building multi-agent RAG systems. Future ISRO engineer. Surpassing my limits, one commit at a time." />
 </a>
 
 <br/>
 
 <a href="https://linkedin.com/in/vishal-verma-6a99a5328"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge" /></a>
-<a href="mailto:vishalverma210905@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-14707f?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=2ViShAlv1&style=for-the-badge&color=14707f&label=GRIMOIRE+READERS" />
+<a href="mailto:vishalverma210905@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-3a3a42?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=2ViShAlv1&style=for-the-badge&color=b3001b&label=GRIMOIRE+READERS" />
 
 </div>
 
-<img src="assets/divider-wind.svg" width="100%" alt="" />
+<img src="assets/divider-sigil.svg" width="100%" alt="" />
 
 <h3 align="center"><img src="assets/ep-owner.svg" width="100%" alt="Grimoire Owner: about me" /></h3>
 
@@ -41,29 +41,29 @@
 
 <img src="assets/element-fire.svg" width="100%" alt="Fire Magic: Python and machine learning" />
 
-<img alt="Python" src="https://img.shields.io/badge/Python-8b0000?style=for-the-badge&logo=python&logoColor=ffffff" />
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-8b0000?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
-<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-8b0000?style=for-the-badge" />
-<img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-8b0000?style=for-the-badge" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-8b0000?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-8b0000?style=for-the-badge&logo=numpy&logoColor=ffffff" />
-<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-8b0000?style=for-the-badge" />
-<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-8b0000?style=for-the-badge" />
-<img alt="MLflow" src="https://img.shields.io/badge/MLflow-8b0000?style=for-the-badge&logo=mlflow&logoColor=ffffff" />
-<img alt="SHAP" src="https://img.shields.io/badge/SHAP-8b0000?style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/Python-b3001b?style=for-the-badge&logo=python&logoColor=ffffff" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-b3001b?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
+<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-b3001b?style=for-the-badge" />
+<img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-b3001b?style=for-the-badge" />
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-b3001b?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-b3001b?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-b3001b?style=for-the-badge" />
+<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-b3001b?style=for-the-badge" />
+<img alt="MLflow" src="https://img.shields.io/badge/MLflow-b3001b?style=for-the-badge&logo=mlflow&logoColor=ffffff" />
+<img alt="SHAP" src="https://img.shields.io/badge/SHAP-b3001b?style=for-the-badge" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <img src="assets/element-lightning.svg" width="100%" alt="Lightning Magic: deep learning and computer vision" />
 
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-dfb53c?style=for-the-badge&logo=tensorflow&logoColor=0a0a0a" />
-<img alt="Keras" src="https://img.shields.io/badge/Keras-dfb53c?style=for-the-badge&logo=keras&logoColor=0a0a0a" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-dfb53c?style=for-the-badge&logo=pytorch&logoColor=0a0a0a" />
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-dfb53c?style=for-the-badge&logo=opencv&logoColor=0a0a0a" />
-<img alt="MobileNetV2" src="https://img.shields.io/badge/MobileNetV2-dfb53c?style=for-the-badge" />
-<img alt="ONNX" src="https://img.shields.io/badge/ONNX-dfb53c?style=for-the-badge&logo=onnx&logoColor=0a0a0a" />
-<img alt="Transfer Learning" src="https://img.shields.io/badge/Transfer%20Learning-dfb53c?style=for-the-badge" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-3a3a42?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
+<img alt="Keras" src="https://img.shields.io/badge/Keras-3a3a42?style=for-the-badge&logo=keras&logoColor=ffffff" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-3a3a42?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-3a3a42?style=for-the-badge&logo=opencv&logoColor=ffffff" />
+<img alt="MobileNetV2" src="https://img.shields.io/badge/MobileNetV2-3a3a42?style=for-the-badge" />
+<img alt="ONNX" src="https://img.shields.io/badge/ONNX-3a3a42?style=for-the-badge&logo=onnx&logoColor=ffffff" />
+<img alt="Transfer Learning" src="https://img.shields.io/badge/Transfer%20Learning-3a3a42?style=for-the-badge" />
 
 </td>
 </tr>
@@ -72,37 +72,37 @@
 
 <img src="assets/element-antimagic.svg" width="100%" alt="Anti-Magic: generative AI, RAG and agents" />
 
-<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-4a1a6b?style=for-the-badge&logo=huggingface&logoColor=ffffff" />
-<img alt="Transformers" src="https://img.shields.io/badge/Transformers-4a1a6b?style=for-the-badge" />
-<img alt="RAG" src="https://img.shields.io/badge/RAG-4a1a6b?style=for-the-badge" />
-<img alt="Multi-Agent Systems" src="https://img.shields.io/badge/Multi--Agent%20Systems-4a1a6b?style=for-the-badge" />
-<img alt="LoRA Fine-Tuning" src="https://img.shields.io/badge/LoRA%20Fine--Tuning-4a1a6b?style=for-the-badge" />
-<img alt="Gemini" src="https://img.shields.io/badge/Gemini-4a1a6b?style=for-the-badge&logo=googlegemini&logoColor=ffffff" />
-<img alt="LLM Orchestration" src="https://img.shields.io/badge/LLM%20Orchestration-4a1a6b?style=for-the-badge" />
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-5c0a14?style=for-the-badge&logo=huggingface&logoColor=ffffff" />
+<img alt="Transformers" src="https://img.shields.io/badge/Transformers-5c0a14?style=for-the-badge" />
+<img alt="RAG" src="https://img.shields.io/badge/RAG-5c0a14?style=for-the-badge" />
+<img alt="Multi-Agent Systems" src="https://img.shields.io/badge/Multi--Agent%20Systems-5c0a14?style=for-the-badge" />
+<img alt="LoRA Fine-Tuning" src="https://img.shields.io/badge/LoRA%20Fine--Tuning-5c0a14?style=for-the-badge" />
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-5c0a14?style=for-the-badge&logo=googlegemini&logoColor=ffffff" />
+<img alt="LLM Orchestration" src="https://img.shields.io/badge/LLM%20Orchestration-5c0a14?style=for-the-badge" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <img src="assets/element-wind.svg" width="100%" alt="Wind Magic: web, data and tools" />
 
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-14707f?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
-<img alt="Flask" src="https://img.shields.io/badge/Flask-14707f?style=for-the-badge&logo=flask&logoColor=ffffff" />
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-14707f?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
-<img alt="React" src="https://img.shields.io/badge/React-14707f?style=for-the-badge&logo=react&logoColor=ffffff" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-14707f?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-14707f?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-14707f?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-14707f?style=for-the-badge&logo=html5&logoColor=ffffff" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-14707f?style=for-the-badge&logo=css&logoColor=ffffff" />
-<img alt="Java" src="https://img.shields.io/badge/Java-14707f?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
-<img alt="C" src="https://img.shields.io/badge/C-14707f?style=for-the-badge&logo=c&logoColor=ffffff" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-14707f?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-14707f?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-14707f?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-14707f?style=for-the-badge&logo=docker&logoColor=ffffff" />
-<img alt="Git" src="https://img.shields.io/badge/Git-14707f?style=for-the-badge&logo=git&logoColor=ffffff" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-14707f?style=for-the-badge&logo=linux&logoColor=ffffff" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-14707f?style=for-the-badge&logo=postman&logoColor=ffffff" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-4a4650?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-4a4650?style=for-the-badge&logo=flask&logoColor=ffffff" />
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-4a4650?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
+<img alt="React" src="https://img.shields.io/badge/React-4a4650?style=for-the-badge&logo=react&logoColor=ffffff" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-4a4650?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-4a4650?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4a4650?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-4a4650?style=for-the-badge&logo=html5&logoColor=ffffff" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-4a4650?style=for-the-badge&logo=css&logoColor=ffffff" />
+<img alt="Java" src="https://img.shields.io/badge/Java-4a4650?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
+<img alt="C" src="https://img.shields.io/badge/C-4a4650?style=for-the-badge&logo=c&logoColor=ffffff" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4a4650?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4a4650?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4a4650?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-4a4650?style=for-the-badge&logo=docker&logoColor=ffffff" />
+<img alt="Git" src="https://img.shields.io/badge/Git-4a4650?style=for-the-badge&logo=git&logoColor=ffffff" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-4a4650?style=for-the-badge&logo=linux&logoColor=ffffff" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-4a4650?style=for-the-badge&logo=postman&logoColor=ffffff" />
 
 </td>
 </tr>
@@ -121,11 +121,11 @@
 Identifies 14 kinds of fruit and vegetables from a photo and grades their freshness on five levels.
 
 <p>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-8b0000?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
-<img alt="Keras" src="https://img.shields.io/badge/Keras-8b0000?style=for-the-badge&logo=keras&logoColor=ffffff" />
-<img alt="MobileNetV2" src="https://img.shields.io/badge/MobileNetV2-8b0000?style=for-the-badge" />
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-8b0000?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
-<img alt="React" src="https://img.shields.io/badge/React-8b0000?style=for-the-badge&logo=react&logoColor=ffffff" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-b3001b?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
+<img alt="Keras" src="https://img.shields.io/badge/Keras-b3001b?style=for-the-badge&logo=keras&logoColor=ffffff" />
+<img alt="MobileNetV2" src="https://img.shields.io/badge/MobileNetV2-b3001b?style=for-the-badge" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-b3001b?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
+<img alt="React" src="https://img.shields.io/badge/React-b3001b?style=for-the-badge&logo=react&logoColor=ffffff" />
 </p>
 <p>
 <a href="https://github.com/2ViShAlv1/Fresh-Vision"><img alt="FreshVision repository" src="https://img.shields.io/badge/Open%20page-Fresh--Vision-8b0000?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=ffffff" /></a><br/><sub>Academic thesis with Harshul Saini, supervised by Dr. Aurobindo Behera</sub>
@@ -139,15 +139,15 @@ Identifies 14 kinds of fruit and vegetables from a photo and grades their freshn
 Classifies NASA Kepler objects of interest as planet candidates or false positives.
 
 <p>
-<img alt="Python" src="https://img.shields.io/badge/Python-4a1a6b?style=for-the-badge&logo=python&logoColor=ffffff" />
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-4a1a6b?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4a1a6b?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-<img alt="Three.js" src="https://img.shields.io/badge/Three.js-4a1a6b?style=for-the-badge&logo=threedotjs&logoColor=ffffff" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-4a1a6b?style=for-the-badge&logo=docker&logoColor=ffffff" />
+<img alt="Python" src="https://img.shields.io/badge/Python-5c0a14?style=for-the-badge&logo=python&logoColor=ffffff" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-5c0a14?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5c0a14?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-5c0a14?style=for-the-badge&logo=threedotjs&logoColor=ffffff" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-5c0a14?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </p>
 <p>
 <a href="https://github.com/2ViShAlv1/exovet"><img alt="ExoVet repository" src="https://img.shields.io/badge/Open%20page-exovet-8b0000?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=ffffff" /></a>
-<a href="https://exovet.onrender.com"><img alt="Live demo" src="https://img.shields.io/badge/Cast%20it-live%20demo-14707f?style=for-the-badge&labelColor=0a0a0a" /></a>
+<a href="https://exovet.onrender.com"><img alt="Live demo" src="https://img.shields.io/badge/Cast%20it-live%20demo-b3001b?style=for-the-badge&labelColor=0a0a0a" /></a>
 </p>
 
 </td>
@@ -160,14 +160,14 @@ Classifies NASA Kepler objects of interest as planet candidates or false positiv
 Detects scam and phishing SMS in English, Hindi and Hinglish, and shows the words that gave it away.
 
 <p>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-8b0000?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
-<img alt="Transformers" src="https://img.shields.io/badge/Transformers-8b0000?style=for-the-badge&logo=huggingface&logoColor=ffffff" />
-<img alt="ONNX" src="https://img.shields.io/badge/ONNX-8b0000?style=for-the-badge&logo=onnx&logoColor=ffffff" />
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-8b0000?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-8b0000?style=for-the-badge&logo=docker&logoColor=ffffff" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-b3001b?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
+<img alt="Transformers" src="https://img.shields.io/badge/Transformers-b3001b?style=for-the-badge&logo=huggingface&logoColor=ffffff" />
+<img alt="ONNX" src="https://img.shields.io/badge/ONNX-b3001b?style=for-the-badge&logo=onnx&logoColor=ffffff" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-b3001b?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-b3001b?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </p>
 <p>
-<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-4a1a6b?style=for-the-badge&labelColor=0a0a0a" />
+<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-3a3a42?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
 </td>
@@ -178,14 +178,14 @@ Detects scam and phishing SMS in English, Hindi and Hinglish, and shows the word
 Predicts hard-drive failures from fleet telemetry and ranks which drives to replace each month.
 
 <p>
-<img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-4a1a6b?style=for-the-badge" />
-<img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-4a1a6b?style=for-the-badge&logo=duckdb&logoColor=ffffff" />
-<img alt="MLflow" src="https://img.shields.io/badge/MLflow-4a1a6b?style=for-the-badge&logo=mlflow&logoColor=ffffff" />
-<img alt="SHAP" src="https://img.shields.io/badge/SHAP-4a1a6b?style=for-the-badge" />
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-4a1a6b?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
+<img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-5c0a14?style=for-the-badge" />
+<img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-5c0a14?style=for-the-badge&logo=duckdb&logoColor=ffffff" />
+<img alt="MLflow" src="https://img.shields.io/badge/MLflow-5c0a14?style=for-the-badge&logo=mlflow&logoColor=ffffff" />
+<img alt="SHAP" src="https://img.shields.io/badge/SHAP-5c0a14?style=for-the-badge" />
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-5c0a14?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
 </p>
 <p>
-<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-4a1a6b?style=for-the-badge&labelColor=0a0a0a" /><br/><sub>Team project, four members</sub>
+<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-3a3a42?style=for-the-badge&labelColor=0a0a0a" /><br/><sub>Team project, four members</sub>
 </p>
 
 </td>
@@ -198,10 +198,10 @@ Predicts hard-drive failures from fleet telemetry and ranks which drives to repl
 Voice-driven AI assistant.
 
 <p>
-<img alt="Voice AI" src="https://img.shields.io/badge/Voice%20AI-8b0000?style=for-the-badge" />
+<img alt="Voice AI" src="https://img.shields.io/badge/Voice%20AI-b3001b?style=for-the-badge" />
 </p>
 <p>
-<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-4a1a6b?style=for-the-badge&labelColor=0a0a0a" />
+<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-3a3a42?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
 </td>
@@ -212,11 +212,11 @@ Voice-driven AI assistant.
 Multi-agent RAG copilot for space research.
 
 <p>
-<img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-4a1a6b?style=for-the-badge" />
-<img alt="RAG" src="https://img.shields.io/badge/RAG-4a1a6b?style=for-the-badge" />
+<img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-5c0a14?style=for-the-badge" />
+<img alt="RAG" src="https://img.shields.io/badge/RAG-5c0a14?style=for-the-badge" />
 </p>
 <p>
-<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-4a1a6b?style=for-the-badge&labelColor=0a0a0a" />
+<img alt="Sealed page: repository not public" src="https://img.shields.io/badge/Sealed%20page-repo%20not%20public-3a3a42?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
 </td>
@@ -256,16 +256,16 @@ Multi-agent RAG copilot for space research.
 
 **Seals earned:** Python (Basic), HackerRank (`326AD1CE7806`) · The Ultimate Job Ready Data Science Course, CodeWithHarry
 
-<img src="assets/divider-wind.svg" width="100%" alt="" />
+<img src="assets/divider-sigil.svg" width="100%" alt="" />
 
 <h3 align="center"><img src="assets/ep-mana.svg" width="100%" alt="Mana Level: GitHub stats" /></h3>
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=2ViShAlv1&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff4655&text_color=f4efe2&icon_color=22a89a&ring_color=ff4655&count_private=true&custom_title=Mana%20Reserves" />
-<img width="41%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ViShAlv1&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff4655&text_color=f4efe2&icon_color=22a89a&langs_count=8&custom_title=Magic%20Attributes" />
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=2ViShAlv1&show_icons=true&hide_border=true&bg_color=050505&title_color=c1121f&text_color=ece6da&icon_color=c1121f&ring_color=c1121f&count_private=true&custom_title=Mana%20Reserves" />
+<img width="41%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ViShAlv1&layout=compact&hide_border=true&bg_color=050505&title_color=c1121f&text_color=ece6da&icon_color=c1121f&langs_count=8&custom_title=Magic%20Attributes" />
 
-<img width="90%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=2ViShAlv1&hide_border=true&background=0a0a0a&ring=e0222f&fire=22a89a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4655&sideLabels=ff4655&dates=f4efe2&stroke=22a89a" />
+<img width="90%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=2ViShAlv1&hide_border=true&background=050505&ring=c1121f&fire=ff3b3b&currStreakNum=ece6da&sideNums=ece6da&currStreakLabel=c1121f&sideLabels=c1121f&dates=8a8590&stroke=5c0a14" />
 
 </div>
 
@@ -278,17 +278,17 @@ Multi-agent RAG copilot for space research.
 **Got a quest or a wild idea? Call me in.**
 
 <p>
-<a href="https://github.com/2ViShAlv1"><img alt="GitHub: 2ViShAlv1" src="https://img.shields.io/badge/GitHub-2ViShAlv1-4a1a6b?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=ffffff" /></a>
+<a href="https://github.com/2ViShAlv1"><img alt="GitHub: 2ViShAlv1" src="https://img.shields.io/badge/GitHub-2ViShAlv1-3a3a42?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=ffffff" /></a>
 </p>
 <p>
 <a href="https://linkedin.com/in/vishal-verma-6a99a5328"><img alt="LinkedIn: Vishal Verma" src="https://img.shields.io/badge/LinkedIn-Vishal%20Verma-8b0000?style=for-the-badge&labelColor=0a0a0a" /></a>
 </p>
 <p>
-<a href="mailto:vishalverma210905@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Send%20a%20summons-14707f?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=ffffff" /></a>
+<a href="mailto:vishalverma210905@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Send%20a%20summons-3a3a42?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=ffffff" /></a>
 </p>
 
-<sub>Theme inspired by Black Clover. Unofficial; all artwork is original SVG.</sub>
+<sub>Unofficial fan theme inspired by Black Clover (Yūki Tabata, Shueisha). All artwork is original SVG.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:0a0a0a,100:14707f&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:5c0a14,100:050505&height=110&section=footer" width="100%" alt="" />
 
 </div>
