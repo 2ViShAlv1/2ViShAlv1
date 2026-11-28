@@ -7,7 +7,7 @@
 <img src="assets/ash-strip.svg" width="100%" alt="" />
 
 <a href="https://github.com/2ViShAlv1">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=900&color=C1121F&background=050505&center=true&vCenter=true&width=760&height=56&lines=AI%2FML+Engineer;Building+multi-agent+RAG+systems;Future+ISRO+engineer;Surpassing+my+limits%2C+one+commit+at+a+time" alt="AI/ML Engineer. Building multi-agent RAG systems. Future ISRO engineer. Surpassing my limits, one commit at a time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&duration=3000&pause=900&color=C1121F&background=050505&center=true&vCenter=true&width=760&height=56&lines=AI%2FML+Engineer;Building+multi-agent+RAG+systems;Surpassing+my+limits%2C+one+commit+at+a+time" alt="AI/ML Engineer. Building multi-agent RAG systems. Surpassing my limits, one commit at a time." />
 </a>
 
 <br/>
