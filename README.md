@@ -26,7 +26,6 @@
 
 - **Academy:** B.Tech CSE (AI/ML), BML Munjal University, class of 2028
 - **Squad:** AI/ML Intern, Hughes Systique (May 2025 – Jul 2026)
-- **Ultimate quest:** building intelligent systems for space at **ISRO**
 - **Casting now:** multi-agent RAG systems and end-to-end ML pipelines
 - **Studying:** agentic AI, MLOps, and data structures & algorithms in Java
 - **Exploring:** satellite imagery and remote sensing with deep learning
